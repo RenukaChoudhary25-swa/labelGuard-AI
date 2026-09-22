@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/labelGuard-AI/',
+  
     
     plugins: [react(), tailwindcss()],
     
