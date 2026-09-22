@@ -1,0 +1,6 @@
+{
+  "name": "LABELGUARD",
+  "description": "AI-Powered Legal Metrology Inspection System for packaging compliance, label tampering detection, and risk scoring.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
